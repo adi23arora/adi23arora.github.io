@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Pursuing B.Tech in Computer Scrience and Engineering at NIT Hamirpur
+Pursuing B.Tech in Computer Science and Engineering at NIT Hamirpur.
 
 ### More Information
 
 Skills : C, C++, Java, Android AppDev., HTML, CSS, Vanilla JS.
 
-Interests : Node.JS, Python.
+Interested In : Node.JS, Python.
 
 ### Contact me
 
