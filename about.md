@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Pursuing B.Tech in Computer Scrience and Engineering at NIT Hamirpur
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Skills : C, C++, Java, Android AppDev., HTML, CSS, Vanilla JS.
+
+Interests : Node.JS, Python.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email Me](mailto:aadityaaaaroraa@gmail.com)
